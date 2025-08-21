@@ -1,119 +1,72 @@
-🚀 Proyecto de Aprendizaje de Java
-Este repositorio documenta mi viaje de aprendizaje de Java, desde los conceptos más básicos hasta temas avanzados. Mi objetivo es dominar el lenguaje construciendo una base sólida y progresando de forma estructurada.
+# 🖥️ Mis Ejercicios en Java  
 
-📚 Contenido del Aprendizaje
-1. Fundamentos de Java
-Sintaxis básica y estructura de programas
+Este repositorio reúne los programas y prácticas que estoy realizando en **Java** como parte de mi aprendizaje.  
+Mi objetivo es avanzar paso a paso desde ejercicios básicos hasta conceptos más avanzados de **Programación Orientada a Objetos (POO)** y **desarrollo de aplicaciones gráficas**.  
 
-Variables, tipos de datos y operadores
+---
 
-Entrada y salida básica
+## 📚 Contenidos
 
-Condicionales (if, else, switch)
+### 🔹 1. Ejercicios Básicos
+- Primeros programas en Java (`HolaMundo`).
+- Condicionales (`if`, `else`, `switch`).
+- Bucles (`for`, `while`, `do-while`).
+- Operaciones matemáticas y lógicas.
 
-Manejo de excepciones básico
+### 🔹 2. Arrays y Bucles
+- Declaración y recorrido de arrays.
+- Búsqueda de elementos.
+- Promedios y sumatorias.
+- Ejercicios con arreglos multidimensionales.
 
-2. Bucles y Estructuras de Control
-Bucles for, while y do-while
+### 🔹 3. Métodos
+- Definición y uso de métodos.
+- Paso de parámetros.
+- Retorno de valores.
+- Métodos que trabajan con arrays.
+- Ejercicios prácticos como factorial, números primos, etc.
 
-Uso de break y continue
+### 🔹 4. Programación Orientada a Objetos (POO)
+- Definición de **clases** y **objetos**.
+- Atributos y métodos.
+- Constructores.
+- Relación entre clases.
 
-Anidamiento de estructuras de control
+### 🔹 5. Clases Abstractas y Métodos `static`
+- Uso de clases abstractas para definir jerarquías.
+- Sobrescritura de métodos en subclases.
+- Métodos y atributos estáticos (`static`).
+- Aplicación práctica en ejemplos de **empleados**, **figuras geométricas** y **notificaciones**.
 
-Ejercicios prácticos con patrones y secuencias
+### 🔹 6. Interfaces
+- Definición e implementación de interfaces.
+- Uso para modelar comportamientos.
+- Ejercicios prácticos con **interfaces de comunicación**.
 
-3. Arrays y Colecciones
-Declaración e inicialización de arrays
+### 🔹 7. Interfaces Gráficas
+- Primeros pasos con **Java Swing**.
+- Creación de ventanas (`JFrame`).
+- Botones, etiquetas y campos de texto.
+- Manejo de eventos básicos.
 
-Arrays unidimensionales y multidimensionales
+---
 
-Manipulación de arrays: recorrido, búsqueda, ordenación
+## 🎯 Objetivo
+Este repositorio es un **registro de mi progreso como programador en Java**.  
+Busco sentar bases sólidas en lógica, POO y posteriormente avanzar hacia proyectos más complejos, integrando **bases de datos, frameworks y desarrollo de aplicaciones completas**.  
 
-Introducción a las colecciones (ArrayList, HashMap)
+---
 
-4. Métodos y Funciones
-Creación y uso de métodos
+## 🚀 Próximos pasos
+- Profundizar en **colecciones (ArrayList, HashMap, etc.)**.  
+- Manejo de **excepciones**.  
+- Persistencia con **archivos y bases de datos**.  
+- Desarrollo de **aplicaciones de escritorio más completas**.  
+- Explorar frameworks como **JavaFX** o **Spring** en el futuro.  
 
-Parámetros y retorno de valores
+---
 
-Sobrecarga de métodos
-
-Ámbito de variables (scope)
-
-5. Programación Orientada a Objetos (POO)
-Clases y objetos
-
-Encapsulación, herencia y polimorfismo
-
-Modificadores de acceso (public, private, protected)
-
-Constructores y destructores
-
-6. Conceptos Avanzados de POO
-Clases abstractas y métodos abstractos
-
-Palabra clave static: métodos y variables estáticas
-
-Interfaces y su implementación
-
-Diferencias entre clases abstractas e interfaces
-
-7. Interfaces Gráficas de Usuario (GUI)
-Introducción a Java Swing y JavaFX
-
-Componentes básicos: botones, campos de texto, etiquetas
-
-Manejo de eventos
-
-Diseño de interfaces de usuario intuitivas
-
-🎯 Objetivos
-Completar ejercicios básicos de sintaxis y lógica
-
-Dominar el uso de bucles y estructuras de control
-
-Implementar soluciones eficientes usando arrays y colecciones
-
-Diseñar programas modulares con métodos bien estructurados
-
-Aplicar los principios de POO en proyectos prácticos
-
-Crear interfaces gráficas funcionales y atractivas
-
-Desarrollar un proyecto final que integre todos los conceptos aprendidos
-
-🛠️ Tecnologías Utilizadas
-Java JDK 11 o superior
-
-IDE: IntelliJ IDEA / Eclipse / VS Code
-
-Sistema de control de versiones: Git
-
-📁 Estructura del Repositorio
-text
-src/
-│
-├── fundamentos/          # Ejercicios básicos de sintaxis
-├── bucles/              # Prácticas con estructuras repetitivas
-├── arrays/              # Trabajo con arrays y colecciones
-├── metodos/             # Implementación de métodos y funciones
-├── poo/                 # Programación Orientada a Objetos
-│   ├── clases_abstractas/
-│   ├── static/
-│   └── interfaces/
-└── gui/                 # Interfaces gráficas de usuario
-
-📈 Progreso
-Sigo actualizando este repositorio regularmente con nuevos ejercicios y proyectos. Cada carpeta contiene ejemplos comentados y soluciones a problemas comunes.
-
-🤝 Contribuciones
-Este es un repositorio personal de aprendizaje, pero si tienes sugerencias para mejorar los ejemplos o agregar ejercicios relevantes, ¡serán bienvenidas!
-
-📝 Recursos Adicionales
-Documentación oficial de Java
-
-Java Tutorials by Oracle
-
-MOOC FI - Programación con Java
-
-Este README se actualizará a medida que avance en mi aprendizaje de Java.
+## 📝 Autor
+👤 **Matías Nicolás Lazarte**  
+📌 Estudiante de Ingeniería en Sistemas  
+💡 Apasionado por la programación, el aprendizaje constante y la tecnología.
